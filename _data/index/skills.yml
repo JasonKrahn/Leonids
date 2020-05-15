@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: Fishing
 id : cs
-aspects: Motivation, GitHub, Java, HTML/CSS, Docker, Python
-percentage: 100, 65, 70, 60, 60, 55
+aspects: Scenery, Fishing, Water Temp, Amenities, Wildlife, Location
+percentage: 95, 45, 25, 90, 60, 55

@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Prairie Fly Fishing
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: Fly fishing in the prairies.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["Prairie", "Fly fishing"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Winnipeg
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Prairie Fly Fishing
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "This is the job"
+  bio: "Fly fishing in the prairies."
   email:
-  disqus-shortname:
+  disqus-shortname: disqus_U8ap8L8mHi
   twitter: #username
   facebook: #username
   google:
